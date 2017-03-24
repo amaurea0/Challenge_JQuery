@@ -31,7 +31,7 @@ $(document).ready(function () {
             i++;
             if (i > indexImg) i = 0;
             showImg();
-        }, 5000); // interval 5000 millisecondes (5s)
+        }, 3000); // interval 3000 millisecondes (3s)
     }
 
     slideImg();
